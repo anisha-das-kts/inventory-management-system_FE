@@ -1,0 +1,30 @@
+@media only screen and (max-width: 1320px) {
+    .cards-medium {
+    flex-direction: column;
+    
+    }
+  }
+
+  @media only screen and (max-width: 1320px) {
+    .dashBoardBody{
+    flex-direction: column;
+  
+    
+    }
+  }
+  
+  @media only screen and(min-width:900px)and (max-width: 1200px) {
+    .dashBoard-charts Linechart {
+    
+  
+  width: 100vw;
+  height: 48vh;
+    
+    }
+  } 
+  .cards-large{
+    display: flex;
+}
+.cards-medium{
+    display: flex;
+}
